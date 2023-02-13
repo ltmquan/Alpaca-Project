@@ -1,0 +1,10 @@
+// VUE FILE STRUCTURE
+/* LIFECYCLE HOOKS */
+/* ROUTE & ROUTER */
+/* STORES */
+/* EMIT */
+/* PROPS */
+/* STATES */
+/* COMPUTED */
+/* WATCHERS */
+/* METHODS */
